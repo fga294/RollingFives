@@ -1,0 +1,241 @@
+year,position,team,points
+2017,13,Sao Paulo,50
+2017,17,Coritiba,43
+2016,7,Corinthians,55
+2017,16,Vitoria,43
+2016,18,Figueirense,37
+2017,18,Avai,43
+2015,10,Atletico Paranaense,51
+2015,12,Flamengo,49
+2014,5,Atletico Mineiro,62
+2014,9,Santos,53
+2013,4,Botafogo,61
+2014,13,Figueirense,47
+2012,2,Atletico Mineiro,72
+2013,16,Flamengo,45
+2012,18,Palmeiras,34
+2010,18,Guarani,37
+2012,8,Santos,53
+2009,4,Cruzeiro,62
+2011,17,Atletico Paranaense,41
+2009,14,Atletico Paranaense,48
+2011,20,Avai,31
+2008,14,Fluminense,45
+2010,7,Internacional,58
+2008,19,Portuguesa,38
+2009,7,Atletico Mineiro,56
+2018,11,Bahia,48
+2018,4,Gremio,66
+2019,5,Athletico Paranaense,64
+2019,6,Sao Paulo,63
+2019,16,Ceara,39
+2017,4,Gremio,62
+2017,10,Botafogo,53
+2017,19,Ponte Preta,39
+2016,9,Gremio,53
+2016,19,Santa Cruz,31
+2014,17,Vitoria,38
+2015,9,Palmeiras,53
+2014,18,Bahia,37
+2013,13,Internacional,48
+2012,7,Botafogo,55
+2013,17,Portuguesa,44
+2012,16,Portuguesa,45
+2012,5,Vasco da Gama,58
+2012,12,Nautico,49
+2012,17,Sport Recife,41
+2012,14,Ponte Preta,48
+2011,16,Cruzeiro,43
+2010,15,Avai,43
+2011,3,Fluminense,63
+2009,13,Vitoria,48
+2010,13,Atletico Mineiro,45
+2009,16,Fluminense,46
+2009,2,Internacional,65
+2008,2,Gremio,72
+2009,5,Palmeiras,62
+2008,5,Flamengo,64
+2008,6,Internacional,54
+2008,12,Atletico Mineiro,48
+2018,6,Atletico Mineiro,59
+2018,1,Palmeiras,80
+2018,8,Cruzeiro,53
+2018,5,Sao Paulo,63
+2018,14,Chapecoense,44
+2018,15,Ceara,44
+2019,19,Chapecoense,32
+2017,9,Atletico Mineiro,54
+2016,13,Fluminense,50
+2016,10,Sao Paulo,52
+2016,11,Chapecoense,52
+2015,15,Coritiba,44
+2015,16,Figueirense,43
+2015,20,Joinville,31
+2014,3,Internacional,69
+2013,8,Atletico Mineiro,57
+2012,9,Cruzeiro,52
+2012,10,Internacional,52
+2012,19,Atletico Goianiense,30
+2012,20,Figueirense,30
+2010,2,Cruzeiro,69
+2010,19,Goias,33
+2009,6,Avai,57
+2009,8,Gremio,55
+2008,11,Sport Recife,49
+2008,18,Vasco da Gama,40
+2015,4,Sao Paulo,62
+2015,6,Sport Recife,59
+2015,7,Santos,58
+2015,11,Ponte Preta,51
+2015,14,Chapecoense,47
+2014,12,Goias,47
+2013,3,Atletico Paranaense,64
+2013,7,Santos,57
+2013,18,Vasco da Gama,44
+2012,13,Coritiba,48
+2011,4,Flamengo,61
+2011,5,Internacional,60
+2009,15,Botafogo,47
+2018,18,America Mineiro,40
+2016,8,Ponte Preta,53
+2017,7,Vasco da Gama,56
+2016,14,Sport Recife,47
+2014,2,Sao Paulo,70
+2014,11,Sport Recife,52
+2014,20,Criciuma,32
+2013,2,Gremio,65
+2013,6,Goias,59
+2011,8,Coritiba,57
+2010,16,Atletico Goianiense,42
+2008,17,Figueirense,44
+2018,13,Corinthians,44
+2019,2,Santos,74
+2019,7,Internacional,57
+2019,8,Corinthians,56
+2017,15,Sport Recife,45
+2016,17,Internacional,43
+2015,13,Fluminense,47
+2014,1,Cruzeiro,80
+2013,15,Fluminense,46
+2010,11,Vasco da Gama,49
+2010,17,Vitoria,42
+2010,20,Presidente Prudente,28
+2009,11,Barueri,49
+2008,8,Goias,53
+2018,10,Santos,50
+2019,1,Flamengo,90
+2019,17,Cruzeiro,36
+2015,17,Avai,42
+2017,1,Corinthians,72
+2014,16,Palmeiras,40
+2013,1,Cruzeiro,76
+2012,11,Flamengo,50
+2011,2,Vasco da Gama,69
+2010,3,Corinthians,68
+2010,8,Santos,56
+2009,12,Santos,49
+2008,13,Atletico Paranaense,45
+2008,16,Nautico,44
+2008,20,Ipatinga,34
+2018,7,Atletico Paranaense,57
+2018,17,Sport Recife,42
+2019,10,Goias,52
+2019,11,Bahia,49
+2019,12,Vasco da Gama,49
+2019,15,Botafogo,43
+2017,8,Chapecoense,54
+2016,5,Botafogo,59
+2016,12,Cruzeiro,51
+2015,2,Atletico Mineiro,69
+2014,7,Gremio,61
+2013,5,Vitoria,59
+2013,14,Criciuma,46
+2012,1,Fluminense,77
+2012,6,Corinthians,57
+2011,6,Sao Paulo,59
+2011,9,Botafogo,56
+2010,6,Botafogo,59
+2010,9,Sao Paulo,55
+2009,1,Flamengo,67
+2009,9,Goias,55
+2018,19,Vitoria,37
+2019,18,CSA,32
+2017,2,Palmeiras,63
+2017,5,Cruzeiro,57
+2017,12,Bahia,50
+2017,11,Atletico Paranaense,51
+2016,4,Atletico Mineiro,62
+2016,2,Santos,71
+2016,15,Coritiba,46
+2016,3,Flamengo,71
+2016,16,Vitoria,45
+2015,19,Goias,38
+2016,20,America Mineiro,28
+2014,8,Atletico Paranaense,54
+2015,1,Corinthians,81
+2011,7,Figueirense,58
+2015,3,Gremio,68
+2011,10,Santos,53
+2014,4,Corinthians,69
+2010,4,Gremio,63
+2014,19,Botafogo,34
+2008,3,Cruzeiro,67
+2011,1,Corinthians,71
+2019,3,Palmeiras,74
+2011,13,Atletico Goianiense,48
+2019,4,Gremio,65
+2011,15,Atletico Mineiro,45
+2019,14,Fluminense,46
+2010,10,Palmeiras,50
+2009,17,Coritiba,45
+2018,3,Internacional,69
+2018,9,Botafogo,51
+2018,20,Parana,23
+2019,9,Fortaleza,53
+2019,20,Avai,20
+2017,6,Flamengo,56
+2017,14,Fluminense,47
+2016,6,Atletico Paranaense,57
+2015,5,Internacional,60
+2014,14,Coritiba,47
+2013,10,Corinthians,50
+2012,15,Bahia,47
+2008,10,Vitoria,52
+2008,15,Santos,45
+2018,2,Flamengo,72
+2019,13,Atletico Mineiro,48
+2014,10,Flamengo,52
+2014,15,Chapecoense,43
+2013,9,Sao Paulo,50
+2013,11,Coritiba,48
+2013,19,Ponte Preta,37
+2013,20,Nautico,20
+2012,3,Gremio,71
+2012,4,Sao Paulo,66
+2011,14,Bahia,46
+2010,14,Flamengo,44
+2018,16,Vasco da Gama,43
+2011,11,Palmeiras,50
+2011,18,Ceara,39
+2011,19,America Mineiro,37
+2010,5,Atletico Paranaense,60
+2009,3,Sao Paulo,65
+2009,10,Corinthians,52
+2009,18,Santo Andre,41
+2009,19,Nautico,38
+2009,20,Sport Recife,31
+2008,1,Sao Paulo,75
+2017,3,Santos,63
+2017,20,Atletico Goianiense,36
+2016,1,Palmeiras,80
+2015,8,Cruzeiro,55
+2015,18,Vasco da Gama,41
+2014,6,Fluminense,61
+2013,12,Bahia,48
+2011,12,Gremio,48
+2010,1,Fluminense,71
+2010,12,Ceara,47
+2008,4,Palmeiras,65
+2008,7,Botafogo,53
+2008,9,Coritiba,53
+2018,12,Fluminense,45

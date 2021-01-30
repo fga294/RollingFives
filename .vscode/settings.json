@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "/Users/fabricio/.local/share/virtualenvs/rollingfives-dHNyz_Hw/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "files.exclude": {
+        "**/.git": false
+    }
+}
