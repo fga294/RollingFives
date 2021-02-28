@@ -10,6 +10,7 @@ pylint-django = "*"
 django-tastypie = "*"
 psycopg2-binary = "*"
 python-decouple = "*"
+gunicorn = "*"
 
 [dev-packages]
 pylint = "*"

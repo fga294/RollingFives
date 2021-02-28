@@ -17,6 +17,7 @@ from django.contrib import admin
 from django.urls import path, include
 from api.models import BrasileiraoResource
 from . import views
+from django.contrib.staticfiles.urls import staticfiles_urlpatterns
 
 seriea = BrasileiraoResource()
 
@@ -26,3 +27,5 @@ urlpatterns = [
     path('brasileirao/', include('brasileirao.urls')),
     path('api/', include(seriea.urls))
 ]
+
+urlpatterns += staticfiles_urlpatterns()
