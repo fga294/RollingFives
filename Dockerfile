@@ -18,6 +18,9 @@ ENV DEBIAN_FRONTEND=noninteractive
 # these are 100% optional here
 ENV PORT=5000
 
+#Secret_key value
+ENV SECRET_KEY=$SECRET_KEY
+
 # Install system dependencies
 RUN apt-get update && apt-get install -y --no-install-recommends \
     tzdata \
